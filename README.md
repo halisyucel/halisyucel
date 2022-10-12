@@ -10,6 +10,4 @@ Nowadays I'm working on frameworks like **Next.js**. **Jamstack** architecture i
 
 ---
 
-I am currently working as a freelancer. You can use **[isaycel2001@gmail.com](mailto:isaycel2001@gmail.com)** to contact me.
-
-At the same time, I am a 3rd year student at Gazi University Faculty of Medicine.
+I continue my university education, which I started at Gazi University Faculty of Medicine, from Hacettepe University Computer Engineering. 🎓

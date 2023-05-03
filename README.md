@@ -1,13 +1,5 @@
-## Hi, I'm **Halis Yücel** 👋
+## Hi, I'm **Halis** 👋
 
-It has been about three years since I started my software adventure, which I started as a hobby, and I am quite intent on doing this professionally.
+Currently, I'm a software crafter with a focus on front-end development. I specialize in developing enterprise-grade application frontends using TypeScript and React. In addition to my technical stack, I have an interest in Java, and I make a daily effort to improve my skills in this area. 👨‍💻
 
-I started this journey with **Python** and continued by learning **JavaScript**, **HTML** and **CSS**. Of course, it would not be right to say that I learned completely. After all, it's an ongoing process. 🤗
-
-I continue to dive into the depths of the frontend world with **React + Typescript** and try to improve myself every day. 👨‍💻
-
-Nowadays I'm working on frameworks like **Next.js**. **Jamstack** architecture is very interesting to me. And I believe this will be a big part of web development in the future. 👾
-
----
-
-I continue my university education, which I started at Gazi University Faculty of Medicine, from Hacettepe University Computer Engineering. 🎓
+I am also a first-year student of Computer Engineering at Hacettepe University. 🎓

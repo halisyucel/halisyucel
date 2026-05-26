@@ -4,4 +4,5 @@ I'm a software developer and co-founder who loves building things. Currently run
 I'm also a 4th year Computer Engineering student at Hacettepe University, 7 years into this degree and still going.
 
 Let's connect
+
 [LinkedIn](https://linkedin.com/in/halisyucel) · [withertz.com](https://withertz.com/) · [halis@withertz.com](mailto:halis@withertz.com)
